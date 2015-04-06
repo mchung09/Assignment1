@@ -11,3 +11,6 @@ My favorite project I have done so far in OSU was my CS161 final project. In it,
 asked the students to make any project they'd like as long as they satisfy the code
 requirements. For my project, I made a Blackjack game, with some graphic elements using arrays.
 I liked the game a lot that I play the game even during my spare time!
+
+
+Conclusion:

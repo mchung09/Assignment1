@@ -14,4 +14,6 @@ I liked the game a lot that I play the game even during my spare time!
 
 
 Conclusion:
-As much as I like this course, I may find this course to be very tough because it involves many moving parts.
+As much as I like this course, I may find this course to be very tough because it involves many moving parts. 
+
+Looking forward to working with you all!

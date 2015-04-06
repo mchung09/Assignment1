@@ -3,3 +3,6 @@ I live in Binghamton, New York, and I enjoy playing video games and watching mov
 web site.
 
 Programming Background
+My programming background includes about 5 courses prior to taking this course. The courses I took include CS161, CS162, CS225, CS261, and CS271. From this experience, I was able to learn
+to code in C, C++, and Assembly Language (MASM), as well as to understand basic logic and various
+data structures such as array, linked lists, stack, bag, tec.
